@@ -7,4 +7,3 @@ xhofe/alist:latest
 maven:3.6.3
 maven:3.6.3-openjdk-8
 kubeoperator/kubepi-server:latest
-kubectl:1.27.3
