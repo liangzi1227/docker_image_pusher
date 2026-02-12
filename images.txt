@@ -1,4 +1,7 @@
-adoptopenjdk/openjdk17
+#下面的eclipse-temurin:17-jdk即openjdk17，体积较小
+eclipse-temurin:17-jdk
+#官方的是openjdk17，体积较大
+openjdk:17
 #node:14.14.0
 #adoptopenjdk/openjdk8
 #nginx:1.23.3
