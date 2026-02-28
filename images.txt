@@ -1,4 +1,4 @@
-openclaw/clawdbot
+clawdbot/clawdbot
 #下面的eclipse-temurin:17-jdk即openjdk17，体积较小
 #eclipse-temurin:17-jdk
 #node:14.14.0
