@@ -1,7 +1,10 @@
+calico/cni:v3.25.0
+calico/node:v3.25.0
+calico/kube-controllers:v3.25.0
 #下面的eclipse-temurin:17-jdk即openjdk17，体积较小
 #eclipse-temurin:17-jdk
 #node:14.14.0
-adoptopenjdk/openjdk8:jdk8u262-b10
+#adoptopenjdk/openjdk8:jdk8u262-b10
 #adoptopenjdk/openjdk8
 #nginx:1.23.3
 #支持私库
