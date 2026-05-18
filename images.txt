@@ -1,6 +1,8 @@
-calico/cni:v3.25.0
-calico/node:v3.25.0
-calico/kube-controllers:v3.25.0
+minio/minio:RELEASE.2024-04-06T05-26-02Z
+#k8s的网络组件calico
+#calico/cni:v3.25.0
+#calico/node:v3.25.0
+#calico/kube-controllers:v3.25.0
 #下面的eclipse-temurin:17-jdk即openjdk17，体积较小
 #eclipse-temurin:17-jdk
 #node:14.14.0
